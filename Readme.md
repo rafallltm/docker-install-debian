@@ -1,4 +1,3 @@
-i
 # Docker via apt no Debian Linux 6.1.0-13-amd64 (2023-09-29) x86_64 GNU/Linux
 
 configure o sudo para dar poderes de super vaca ao user:
@@ -7,7 +6,7 @@ configure o sudo para dar poderes de super vaca ao user:
 
 #sudo visudo
 
-/etc/sudoers : add a linha do user em baxo da linha do root: 
+add a linha do user em baixo da linha do root no arquivo /etc/sudoers : 
 
 root	ALL=(ALL:ALL) ALL
 
