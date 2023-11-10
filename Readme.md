@@ -23,3 +23,6 @@ $chmod +x install.sh
 $./install.sh
 
 $sudo reboot
+
+$sudo apt install docker-compose
+
