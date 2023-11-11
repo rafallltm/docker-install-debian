@@ -8,7 +8,7 @@ configure o sudo para dar poderes de super vaca ao user:
 
 add a linha do user em baixo da linha do root no arquivo /etc/sudoers : 
 
-root	ALL=(ALL:ALL) ALL
+root ALL=(ALL:ALL) ALL
 
 seu_user ALL=(ALL:ALL) ALL
 
