@@ -12,6 +12,10 @@ root ALL=(ALL:ALL) ALL
 
 seu_user ALL=(ALL:ALL) ALL
 
+instale o curl: 
+
+$sudo apt install curl
+
 add o user ao grupo sudo:
 
 $sudo usermod -aG sudo seu_usuario
