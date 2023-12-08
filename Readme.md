@@ -1,4 +1,4 @@
-# Docker via apt no Linux debian 6.1.0-13-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.55-1 (2023-09-29) x86_64 GNU/Linux
+# Docker via apt no Debian 6.1.55-1 (2023-09-29) x86_64 GNU/Linux
 
 
 configure o sudo para dar poderes de super vaca ao user:
