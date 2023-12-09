@@ -27,5 +27,4 @@ $chmod +x install.sh
 
 $./install.sh
 
-$sudo apt install docker-compose
 
