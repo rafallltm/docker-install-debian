@@ -1,4 +1,4 @@
-# Docker via apt no Debian 6.1.55-1 (2023-09-29) x86_64 GNU/Linux
+# Docker apt Debian 
 
 
 configure o sudo para dar poderes de super vaca ao user:
