@@ -21,8 +21,6 @@ instale o curl:
 
 $sudo apt install curl
 
-rode o script:
-
 $chmod +x install.sh
 
 $./install.sh
