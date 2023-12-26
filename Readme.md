@@ -3,6 +3,10 @@
 
 configure o sudo para dar poderes de super vaca ao user:
 
+#apt update 
+
+#apt upgrade
+
 #apt install sudo
 
 #sudo visudo
